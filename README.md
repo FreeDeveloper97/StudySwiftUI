@@ -56,3 +56,22 @@
 - constant
 - @Published
 - ObservableObject
+
+# 4. Drawing Paths and Shapes
+[Link](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)
+
+<img src="https://github.com/FreeDeveloper97/StudySwiftUI/assets/65349445/cd65e23a-bcb5-4984-ae4d-f764e99cf391" width=50%>
+
+- GeometryReader
+- Path
+- path.move
+- path.addLine
+- path.addLines
+- path.addQuadCurve
+- fill
+- linearGradient
+- Gradient
+- aspectRatio
+- rotationEffect
+- opacity
+- scaledToFit()
