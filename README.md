@@ -75,3 +75,14 @@
 - rotationEffect
 - opacity
 - scaledToFit()
+
+# 5. Animating Views and Transitions
+[Link](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
+
+<img src="https://github.com/FreeDeveloper97/StudySwiftUI/assets/65349445/c2feb54c-f4d1-4bb5-b24d-c27777c68be9" width=50%>
+
+- Animation
+- animation
+- AnyTransition
+- transition
+
