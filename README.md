@@ -86,3 +86,15 @@
 - AnyTransition
 - transition
 
+# 6. Composing Complex Interfaces
+[Link](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
+
+<img src="https://github.com/FreeDeveloper97/StudySwiftUI/assets/65349445/835786ec-8711-4862-80ff-19199978df3c" width=50%>
+<img src="https://github.com/FreeDeveloper97/StudySwiftUI/assets/65349445/10614be9-6eb4-425b-8e39-fa9f87f0fc90" width=50%>
+
+- TabView
+- tabItem
+- tag
+- listRowInsets
+- listStyle
+- ScrollView
