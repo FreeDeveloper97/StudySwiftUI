@@ -41,3 +41,18 @@
 - ForEach
 - Identifiable
 
+# 3. Handling User Input
+[Link](https://developer.apple.com/tutorials/swiftui/handling-user-input)
+
+<img src="https://github.com/FreeDeveloper97/StudySwiftUI/assets/65349445/e06f854d-9774-4872-bd81-6e6c4466fae3" width=50%>
+<img src="https://github.com/FreeDeveloper97/StudySwiftUI/assets/65349445/73212dfb-5dab-4682-96de-d3a20a08b16c" width=50%>
+
+- @StateObject
+- environmentObject
+- @EnvironmentObject
+- @State
+- Toggle
+- @Binding
+- constant
+- @Published
+- ObservableObject
