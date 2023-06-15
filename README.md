@@ -127,3 +127,17 @@
 - UIViewRepresentable
 - makeUIView
 - updateUIView
+
+# 9. Creating a watchOS App
+[Link](https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app)
+
+<img src="https://github.com/FreeDeveloper97/StudySwiftUI/assets/65349445/b49b3f41-3f7d-459a-9891-39c02c310497">
+<img src="https://github.com/FreeDeveloper97/StudySwiftUI/assets/65349445/c9745667-3ae1-4449-9234-468b00bf9bb6">
+<img src="https://github.com/FreeDeveloper97/StudySwiftUI/assets/65349445/6e693bce-97ac-428a-ab91-16fe190eba62">
+
+- #if os(watchOS)
+- resizable()
+- scaledToFit()
+- NotificationController
+- NotificationView
+- PushNotificationPayload
