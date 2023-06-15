@@ -98,3 +98,18 @@
 - listRowInsets
 - listStyle
 - ScrollView
+
+# 7. Working with UI Controls
+[Link](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)
+
+<img src="https://github.com/FreeDeveloper97/StudySwiftUI/assets/65349445/31b94525-c3f5-49e9-a0e0-bd1233765557" width=50%>
+<img src="https://github.com/FreeDeveloper97/StudySwiftUI/assets/65349445/286deb5b-a9f6-4b77-8130-4f6f45918359" width=50%>
+
+- toolbar
+- sheet
+- @Environment
+- onAppear
+- onDisappear
+- EditButton()
+- Picker
+- DatePicker
